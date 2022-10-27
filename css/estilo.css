@@ -192,7 +192,7 @@ a {
 
 .login:hover {
   transition: 3s;
-  background-image: coral;
+  background-image: url(../Imagenes/jujutsu-kaisen.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
